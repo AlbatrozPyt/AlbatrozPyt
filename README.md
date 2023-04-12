@@ -3,11 +3,11 @@
 <p> Estou em um Curso Tecnico de Desenvolvimento de Sistemas <[0_0]> </p>
 
 <h3>HABILIDADES:</h3>
-<code>
+<p>
   -> Python
   -> Aprendendo C#
   -> HTML/CSS 
- </code>
+ </p>
 <!--
 **AlbatrozPyt/AlbatrozPyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
