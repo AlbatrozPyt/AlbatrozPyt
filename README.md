@@ -4,9 +4,9 @@
 
 <h3>HABILIDADES:</h3>
 <p>
-  -> Python <br>
-  -> Aprendendo C# <br>
-  -> HTML/CSS 
+  -> Python 🐍 <br>
+  -> Aprendendo C# 👾 <br>
+  -> HTML/CSS 💻
  </p>
 <!--
 **AlbatrozPyt/AlbatrozPyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
