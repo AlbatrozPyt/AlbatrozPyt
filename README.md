@@ -4,8 +4,8 @@
 
 <h3>HABILIDADES:</h3>
 <p>
-  -> Python
-  -> Aprendendo C#
+  -> Python <br>
+  -> Aprendendo C# <br>
   -> HTML/CSS 
  </p>
 <!--
