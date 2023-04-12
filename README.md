@@ -1,4 +1,6 @@
-### Olá eu sou o Matheus 👋
+###  Ola 👋, eu sou o Matheus 😄 !!!
+
+<p> Estou em um Curso Tecnico de Desenvolvimento de Sistemas <[0_0]> </p>
 
 <!--
 **AlbatrozPyt/AlbatrozPyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
