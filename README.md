@@ -4,7 +4,7 @@
 
 <h3>HABILIDADES:</h3>
 <p>
-  -> Python 🐍 ![image](https://user-images.githubusercontent.com/115594555/231603816-d28a7d28-2910-4ba4-a3f1-18e731ed4423.png) <br>
+  -> Python 🐍 <br>
   -> Aprendendo C# 👾 <br>
   -> HTML/CSS 💻
  </p>
