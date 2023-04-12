@@ -8,6 +8,9 @@
   -> Aprendendo C# 👾 <br>
   -> HTML/CSS 💻
  </p>
+ 
+ ![image](https://user-images.githubusercontent.com/115594555/231603391-f165d31e-ca1d-408c-a1b4-b05735be827f.png)
+
 <!--
 **AlbatrozPyt/AlbatrozPyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
