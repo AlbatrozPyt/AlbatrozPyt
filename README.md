@@ -1,6 +1,6 @@
 ###  Ola 👋, eu sou o Matheus 😄 !!!
 
-<p> Estou em um Curso Tecnico de Desenvolvimento de Sistemas <[0_0]> </p>
+<p>Tenho 16 anos, moro em Santo Andre, Brasil, estou no 2º ano do Ensino Medio e cursando o curso tecnico Senai de Desenvolvimento de Sistemas.</p>
 
 <h3>HABILIDADES:</h3>
 <p>
