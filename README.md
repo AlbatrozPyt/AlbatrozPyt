@@ -3,7 +3,7 @@
 <p>Tenho 16 anos, moro em Santo Andre, Brasil, estou no 2º ano do Ensino Medio e cursando o curso tecnico Senai de Desenvolvimento de Sistemas.</p>
 
 <h3>HABILIDADES:</h3>
-![img]https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/Python.png
+![img](https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/Python.png)
 <p>
   -> Aprendendo C# 👾 <br>
   -> HTML/CSS 💻
