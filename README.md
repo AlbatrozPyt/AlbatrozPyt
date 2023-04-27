@@ -3,13 +3,12 @@
 <p>Tenho 16 anos, moro em Santo Andre, Brasil, estou no 2º ano do Ensino Medio e cursando o curso tecnico Senai de Desenvolvimento de Sistemas.</p>
 
 <h3>HABILIDADES:</h3>
+<img src"https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/Python.png">
 <p>
-  -> Python 🐍 <br>
   -> Aprendendo C# 👾 <br>
   -> HTML/CSS 💻
  </p>
- 
- ![alt text](https://www.figma.com/file/Yqy8ZPRysDmA6LV5tmzHAw/Untitled?node-id=1-13&t=cxcjRyBIALIp2kUn-4)
+
  
  <a href=""><img src=""></a>
  
