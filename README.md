@@ -4,7 +4,6 @@
 
 <h3>HABILIDADES:</h3>
 <img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/Python.png" alt="Python">
-<img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/C%23.png" "Csharp/C#">
- 
- <a href=""><img src=""></a>
+<img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/C%23.png" alt="Csharp/C#">
+<img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/C%23.png" alt="Html&Css">
  
