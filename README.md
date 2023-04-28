@@ -9,4 +9,6 @@
  
 <h3>Redes Sociais</h3>
 
-<a href="https://www.linkedin.com/in/matheus-enrike/"> <img src"https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/Linkredin.png"> </a>
+<a href="[https://www.bing.com](https://www.linkedin.com/in/matheus-enrike/)">
+  <img src="[https://www.bing.com/th?id=OIP.6l0L1wW0ZJbY1fQ9X3qQ8gHaHa&w=300&h=300&c=7&o=5&dpr=1.25&pid=1.7](https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/Linkredin.png)" alt="Logo do Linkedin">
+</a>
