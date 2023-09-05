@@ -9,7 +9,7 @@
 
 <h3>Certificações:</h3>
 <a href="https://www.credly.com/badges/de519ac1-76d7-4f3f-9a0a-32a746395b6c">
-  <img src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" alt="PL-900_Imagem">
+  <img src="https://images.credly.com/size/680x680/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/CERT-Fundamentals-Power-Platform.png" width="100px" height="100px" alt="PL-900_Imagem">
 </a>
  
 <h3>Redes Sociais</h3>
