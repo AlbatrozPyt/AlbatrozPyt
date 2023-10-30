@@ -1,11 +1,5 @@
 ###  Ola 👋, eu sou o Matheus 😄 !!!
 
-<style>
-  p {
-    color: red;
-  }
-</style>
-
 <p>Tenho 16 anos, moro em Santo Andre, Brasil, estou no 2º ano do Ensino Medio e cursando o curso tecnico Senai de Desenvolvimento de Sistemas.</p>
 
 <h3>Skills:</h3>
