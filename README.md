@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/GitHub_converted.gif" width="100%" height="40px">
+
 ###  Ola 👋, eu sou o Matheus 😄 !!!
 
 <p>Tenho 16 anos, moro em Santo André, Brasil, estou no 2º ano do Ensino Medio e cursando o curso tecnico Senai de Desenvolvimento de Sistemas.</p>
