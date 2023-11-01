@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/GitHub_converted.gif" width="500px%" height="500px" align=center>
+<div  align="center">
+<img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/GitHub_converted.gif" width="500px" height="550px">
+</div>
 
 ###  Ola 👋, eu sou o Matheus 😄 !!!
 
