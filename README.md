@@ -20,7 +20,3 @@
 <a href="https://www.linkedin.com/in/matheus-enrike/">
   <img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/Linkredin.png" alt="Logo do Linkedin">
 </a>
-
-1 | 2 | 3
------|------|-------|
-A | B | C
