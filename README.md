@@ -4,7 +4,7 @@
 
 <h3>Skills:</h3>
 <img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/Python.png" alt="Python">
-
+<img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/C%23.png" alt="C#">
 <img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/HTML_CSS.png" alt="Html&Css">
 
 <h3>Certificações:</h3>
