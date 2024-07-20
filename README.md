@@ -9,9 +9,14 @@
 
 <hr>
 
-<h3>Linguagens de programação</h3>
-<div style="background: red;">
+<div>
+  <h3>Back-End</h3>
   <img src="https://github.com/AlbatrozPyt/ImagesForReadme/blob/main/logos-liguagens-programacao.png?raw=true" alt="Logos">
+</div>
+
+<div>
+  <h3>Front-End</h3>
+  <img src="https://github.com/AlbatrozPyt/ImagesForReadme/blob/main/front-end.png?raw=true" alt="Logos">
 </div>
 
 <h3>Redes Sociais</h3>
