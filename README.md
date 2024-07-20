@@ -10,8 +10,8 @@
 <hr>
 
 <h3>Linguagens de programação</h3>
-<div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzfxESPg88wSMLEXOX-OufFn1YA2WfGup-A&s" alt="Logo do PHP">
+<div style="background: red;">
+  <img src="https://github.com/AlbatrozPyt/ImagesForReadme/blob/main/logos-liguagens-programacao.png?raw=true" alt="Logos">
 </div>
 
 <h3>Redes Sociais</h3>
