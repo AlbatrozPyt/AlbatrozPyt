@@ -1,7 +1,7 @@
 <h1> Olá 👋, eu sou o Matheus 😄 !!!</h1>
 
 <div align="center">
-<img width="100%" src="https://i.makeagif.com/media/10-15-2017/I63PuP.gif" alt="gif">
+<img width="100%" src="https://github.com/AlbatrozPyt/ImagesForReadme/blob/main/cuphead-gif.gif?raw=true" alt="gif">
 </div>
 
 <hr>
@@ -50,5 +50,5 @@
 <hr>
 
 <div align="center">
-<img width="100%" src="https://i.pinimg.com/originals/22/35/47/223547b52bf8e50a11500e158760aab1.gif" alt="gif">
+<img width="100%" src="https://github.com/AlbatrozPyt/ImagesForReadme/blob/main/cuphead-2-gif.gif?raw=true" alt="gif">
 </div>
