@@ -67,7 +67,7 @@
 <h3>Redes Sociais</h3>
 
 <a href="https://www.linkedin.com/in/matheus-enrike/">
-  <img src="https://raw.githubusercontent.com/AlbatrozPyt/Images_Readme/main/Linkredin.png" alt="Logo do Linkedin">
+  <img width="60px" src="https://raw.githubusercontent.com/AlbatrozPyt/ImagesForReadme/main/icons/linkedin.svg" alt="Logo do Linkedin" title="linkedin">
 </a>
 
 <hr>
