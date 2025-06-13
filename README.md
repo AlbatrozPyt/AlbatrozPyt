@@ -54,7 +54,7 @@
 
 <div>
   <h3>Certificações</h3>
-  <a href="https://www.credly.com/badges/dcce296d-4fa0-476e-a266-6bc81eab4b73/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/dcce296d-4fa0-476e-a266-6bc81eab4b73/public_url">
     <img height="90px" src="https://github.com/AlbatrozPyt/ImagesForReadme/blob/main/ai900-logo.png?raw=true" alt="badge da certificação AI 900">
   </a>
   <a href="https://www.credly.com/badges/de519ac1-76d7-4f3f-9a0a-32a746395b6c/public_url">
